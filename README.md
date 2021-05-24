@@ -1,2 +1,3 @@
 # redis_desktop
-pyqt5 redis_desktop
+pyqt5编写redis_desktop客户端小工具
+可对redis进行删改查操作，根据提供的规则统计各key的数量
